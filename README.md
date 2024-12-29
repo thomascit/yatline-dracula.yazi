@@ -1,6 +1,6 @@
-# yetline-dracula.yazi
+# yatline-dracula.yazi
 
-Dracula theme For [yetline.yazi](https://github.com/imsi32/yatline.yazi)
+Dracula theme For [yatline.yazi](https://github.com/imsi32/yatline.yazi)
 
 ![Dracula](https://draculatheme.com/images/dracula.gif)
 
