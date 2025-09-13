@@ -22,9 +22,9 @@ local function dracula_theme()
 	local palette = dracula_palette
 
 	return {
-		section_separator = { open = "", close = "" },
-		part_separator = { open = "", close = "" },
-		inverse_separator = { open = "", close = "" },
+		section_separator = { open = "", close = "" },
+		part_separator = { open = "", close = "" },
+		inverse_separator = { open = "", close = "" },
 		---#=== yatline ===#---
 		style_a = {
 			fg = palette.bg,
