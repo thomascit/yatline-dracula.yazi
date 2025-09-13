@@ -6,8 +6,8 @@ Dracula theme For [yatline.yazi](https://github.com/imsi32/yatline.yazi)
 
 ## Previews
 
-![headers_drucula](.img/2024-12-29-19-13-50.png)
-![status_drucula](.img/2024-12-29-19-18-11.png)
+![headers_drucula](.img/top.png)
+![status_drucula](.img/bottom.png)
 
 ## Requirements
 
