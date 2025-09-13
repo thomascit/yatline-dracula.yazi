@@ -43,7 +43,7 @@ local function dracula_theme()
 		permissions_x_fg = palette.green, -- Using green for 'x' permissions
 		permissions_s_fg = palette.fg, -- Using default fg for 's' permissions
 
-		selected = { icon = "󰻭", fg = palette.pink }, -- Using pink for selected items
+		selected = { icon = "󰻭", fg = palette.yellow }, -- Using yellow for selected items
 		copied = { icon = "", fg = palette.green }, -- Using green for copied items
 		cut = { icon = "", fg = palette.red }, -- Using red for cut items
 
